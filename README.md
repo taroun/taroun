@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20Taro&fontSize=90)
 
-  [![Taroun's github stats](https://github-readme-stats.vercel.app/api?username=taroun)](https://github.com/taroun)
+  [![Taroun's github stats](https://github-readme-stats.vercel.app/api?username=taroun&layout=compact)](https://github.com/taroun)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taroun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taroun&layout=compact)](https://github.com/taroun)
 
   <div>
   
